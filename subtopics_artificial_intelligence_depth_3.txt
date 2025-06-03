@@ -1,0 +1,1338 @@
+aal
+abstract state machines
+abstracting and indexing
+aco algorithms
+act-r
+action selection
+action spaces
+active learning
+activity recognition
+actor critic
+actor-critic algorithms
+adaboost
+adaptive boosting
+adaptive critic designs
+adaptive cruise control
+adaptive genetic algorithm
+adaptive genetic algorithms
+adaptive learning
+adaptive network based fuzzy inference system
+adaptive neuro-fuzzy inference system
+adaptive neuro-fuzzy inference system %28anfis%29
+advanced traffic management systems
+advanced traveler information systems
+adversarial learning
+adversarial machine learning
+agent architecture
+agent architectures
+agent based
+agent based simulation
+agent model
+agent oriented software engineering
+agent systems
+agent technology
+agent-based
+agent-based modelling
+agent-based simulation
+agent-based simulation models
+agent-based system
+agent-based systems
+agent-oriented
+agent-oriented software engineering
+agentic ai
+agentic artificial intelligence
+agentic rag
+agglomerative hierarchical clustering
+ai applications
+ai planning
+ambient assisted living
+ambient intelligence
+ambient intelligent
+analog differential analyzers
+analytic hierarchies
+analytic hierarchy
+analytic network process
+analytic network process %28anp%29
+anfis
+annealing
+answer extraction
+answer set programming
+ant systems
+anthropomorphic robots
+approximate dynamic programming
+approximate inference
+apriori algorithm
+apriori algorithms
+argumentation
+artificial bee colonies
+artificial bee colony
+artificial bee colony algorithm
+artificial bee colony algorithms
+artificial bee colony algorithms %28abc%29
+artificial intelligence
+artificial neural network
+artificial neural network %28ann%29
+artificial neural network models
+artificial neural networks
+association mining
+association rule learning
+associative classification
+associative classifiers
+associative learning
+associative processing
+associative storage
+attribute reduction
+attributes reduction
+auction mechanisms
+auto encoders
+autoencoders
+automated reasoning
+automated theorem proving
+automatic evaluation
+automatic translation
+automatic verification
+autonomous agent
+autonomous agents
+auv
+average reward
+avoid obstacles
+avoiding obstacle
+back propagation
+back propagation algorithm
+back propagation neural networks
+back-propagation
+back-propagation neural network
+back-propagation neural networks
+background knowledge
+backpropagation
+backpropagation algorithm
+backpropagation algorithms
+backstepping
+bam neural network
+base classifiers
+base learners
+basic probability assignment
+bayes classifier
+bayesian
+bayesian approach
+bayesian approaches
+bayesian classification
+bayesian classifier
+bayesian classifiers
+bayesian estimation
+bayesian estimations
+bayesian estimators
+bayesian filtering
+bayesian framework
+bayesian frameworks
+bayesian inference
+bayesian method
+bayesian methods
+bayesian model
+bayesian models
+bayesian network
+bayesian network classifiers
+bayesian networks
+bdd
+best response
+bilingual dictionary
+binary decision
+binary decision diagram
+binary decision diagram %28bdd%29
+binary decision diagrams
+binary decision diagrams %28bdd%29
+binary particle swarm optimization
+biomedical text mining
+bionlp
+biped robot
+biped robots
+biped walking
+bipedal robot
+bipedal walking
+boltzmann machine
+boolean algebra
+boolean formulae
+boolean network
+boolean networks
+boolean operations
+boolean satisfiability
+branching time
+c-systems
+ca model
+candidate solution
+cartesian genetic programming
+case base
+case based
+case based reasoning
+case based reasoning %28cbr%29
+case based reasoning systems
+case retrieval
+case-based reasoning
+case-based reasoning %28cbr%29
+case-based reasonings
+cbr
+cellular automata
+cellular automata %28ca%29
+cellular automata models
+cellular automaton
+cellular automaton models
+cellular neural network
+cellular neural networks
+character recognition
+chatbot
+chinese word segmentation
+class labels
+classifier
+classifiers
+clause learning
+clinical decision support
+clinical decision support system
+clinical decision support systems
+closure property
+cluster analysis
+cluster centers
+cluster numbers
+cluster systems
+cluster validation
+cluster validity
+clustering accuracy
+clustering data
+clustering quality
+cnf formulas
+cnn
+co-operative spectrum sensing
+coalgebra
+coalgebraic
+coalgebras
+coalition formation
+coalition formations
+coalition structure
+coalitional game
+cognitive architecture
+cognitive architectures
+cognitive informatics
+cognitive maps
+cognitive model
+cognitive modeling
+cognitive modelling
+cognitive models
+cognitive network
+cognitive networks
+cognitive process
+cognitive processes
+cognitive radio technologies
+cognitive science
+cognitive systems
+cognitive wireless networks
+color image
+color images
+combination forecasting
+combination rules
+common sense
+common sense knowledge
+common-sense
+common-sense computing
+common-sense knowledge
+common-sense knowledge bases
+common-sense reasoning
+commonsense
+commonsense computing
+commonsense knowledge
+commonsense reasoning
+communicating sequential processes
+communicating sequential processes %28csp%29
+communication robot
+complex questions
+complexity results
+computability
+computability and decidability
+computational grammars
+computer aided language translation
+computer game
+computer games
+computing with word %28cww%29
+computing with words
+concept description
+concept similarity
+conditional random field
+conditional random fields
+conditional random fields %28crfs%29
+consensus problems
+consensus protocols
+constrained problem
+constraint logic programming
+constraint networks
+constraint propagation
+constraint satisfaction problems %28csp%29
+constraint solvers
+content based recommendation
+content based recommendation %28cbr%29
+content distribution networks
+content management
+content management system
+content management systems
+continuous state space
+contrastive learning
+contrastive representation learning
+control and automation
+controller area network
+convolutional neural networks
+cooperative game
+cooperative game theory
+cooperative games
+cooperative spectrum sensing
+coordination mechanism
+coordination mechanisms
+correlated equilibria
+cps
+cr system
+cross language information retrieval
+cross-language information retrieval
+crossover and mutation
+crossover operator
+crossover operators
+csp
+cut elimination
+cyber physical
+cyber physical systems %28cpss%29
+cyber-physical system
+cyber-physical systems
+cyber-physical systems %28cps%29
+cyclostationarity
+cyclostationary
+data clustering
+datalog
+decision analysis
+decision diagram
+decision diagrams
+decision making%2C computer-assisted
+decision model
+decision modeling
+decision models
+decision procedure
+decision procedures
+decision rule
+decision rules
+decision support system
+decision support system %28dss%29
+decision support systems
+decision support systems%2C clinical
+decision support techniques
+decision systems
+decision table
+decision tables
+decision theory
+decision trees
+decision-theoretic
+deep belief networks
+deep learning
+delay dependents
+delayed neural networks
+dempster-shafer
+dempster-shafer theory
+dempster-shafer theory of evidence
+dendrogram
+dendrograms
+deontic
+deontic logic
+dependency parser
+dependency parsing
+dependency trees
+description logic
+description logics
+dialogue management
+dialogue systems
+differential evolution
+differential evolution %28de%29
+differential evolution algorithm
+differential evolution algorithms
+diffusion models
+diffusion probabilistic models
+digital games
+dimensionality reduction
+discrete dynamical systems
+discrete particle swarm optimization
+discrete particle swarm optimization algorithm
+distributed artificial intelligence
+distributed control system
+distributed control systems
+distributed parameter
+distributed parameter networks
+distributed parameter system
+distributed parameter systems
+distributed processing
+distributed real time system
+distributed scheduling
+distribution network
+distribution networks
+distribution of goods
+document classification
+document clustering
+document frequency
+document representation
+dom tree
+domain experts
+domain knowledge
+dominance relation
+dominance-based rough set approach
+dominant strategy
+double-rank adaptation
+dynamic logic
+dynamic optimization problem %28dop%29
+dynamic optimization problems
+dynamic spectrum
+dynamic spectrum access
+dynamic spectrum accesses %28dsa%29
+dynamic spectrum sharing
+dynamic walking
+earliest deadline first
+embodied agent
+embodied agents
+emptiness problem
+energy detection
+energy detector
+energy detectors
+energy-based models
+engineering design problems
+english sentences
+ensemble algorithms
+ensemble classification
+ensemble learning
+ensemble methods
+ensemble models
+ensemble techniques
+enterprise 2.0
+epistemic logic
+error rate %28er%29
+ess
+estimation of distribution algorithm
+estimation of distribution algorithms
+event calculus
+event-b
+evidential reasoning
+evolution of cooperation
+evolution strategies
+evolution strategy
+evolutionarily stable strategy
+evolutionary algorithm
+evolutionary algorithms
+evolutionary computation
+evolutionary computation techniques
+evolutionary computations
+evolutionary game
+evolutionary game theory
+evolutionary games
+evolutionary optimization
+evolutionary optimizations
+evolutionary process
+evolutionary programming
+evolutionary search
+evolutionary stability
+evolutionary stable strategy
+evolutionary strategies
+evolutionary strategy
+exact inference
+existence and uniqueness
+expectation propagation
+expert knowledge
+expert system
+expert systems
+explainable ai
+explicit knowledge
+exploration and exploitation
+extracting information
+extreme learning machine
+extreme learning machine %28elm%29
+face recognition
+facial feature extraction
+facial recognition
+fairness in ai
+false alarm probability
+feasible regions
+feature extraction
+feature learning
+feature ranking
+feature recognition
+feature selection
+feature selection methods
+feature selection problem
+feature sets
+feature space
+feature vector
+feature vectors
+federated learning
+feedforward neural network
+feedforward neural networks
+few-shot learning
+fine-tuning learning
+finite model theory
+finite structures
+first order logic
+first-order formulas
+first-order logic
+fitness evaluations
+fitness function
+fitness functions
+foraging behaviors
+forecasting accuracy
+forecasting error
+forecasting methods
+forecasting models
+forecasting performance
+forecasting precision
+forecasting problems
+forecasting system
+forecasting techniques
+formal approach
+formal framework
+formal grammars
+formal logic
+formal method
+formal methods
+formal model
+formal models
+formal ontology
+formal proofs
+formal semantics
+formal specification
+formal specification language
+formal specifications
+formation control
+fp-growth algorithm
+free texts
+frequent items
+full body
+function approximation
+functional dependencies
+functional dependency
+fuzzy association rule
+fuzzy association rules
+fuzzy classification
+fuzzy classifier
+fuzzy classifiers
+fuzzy clustering analysis
+fuzzy cognitive map
+fuzzy cognitive maps
+fuzzy description logic
+fuzzy expert system
+fuzzy expert systems
+fuzzy inference system
+fuzzy inference system %28fis%29
+fuzzy inference systems
+fuzzy neural network
+fuzzy neural network %28fnn%29
+fuzzy neural networks
+fuzzy simulation
+fuzzy time series
+gait planning
+game analysis
+game environment
+game models
+game theory
+game-theoretic
+game-theoretic model
+gated recurrent unit
+gaussian mixture of experts
+genai
+gene expression programming
+generative adversarial networks
+generative ai
+generative artificial intelligence
+generative model
+genetic algorithm
+genetic algorithm %28ga%29
+genetic algorithms
+genetic fuzzy systems
+genetic network programming
+genetic operators
+genetic programming
+genetic programming %28gp%29
+genetic-fuzzy
+gesture recognition
+gibbs sampler
+gibbs samplers
+gibbs sampling
+gliders
+global optimal solutions
+global optimization problems
+gm %281 %2C 1%29
+gm %281 %2C 1%29 model
+goal-conditioned learning
+goal-conditioned reinforcement learning
+goal-conditioned rl
+grammar induction
+grammatical evolution
+grammatical inference
+grammatical inferences
+graph construction
+graph matching
+graph matchings
+graph neural networks
+graphical model
+graphical modeling
+graphical models
+graphrag
+grey model
+grey models
+grey number
+grey prediction
+grey prediction model
+grey relation
+grey relational analysis
+grey relational grade
+grey system
+grey system theory
+grey systems
+grey theory
+group decision
+group decision-making
+group support systems
+hard real-time
+hard real-time systems
+hca
+heuristic approaches
+heuristic programming
+hier-archical clustering
+hierarchical cluster analysis
+hierarchical clustering
+hierarchical dirichlet process
+hierarchical reinforcement learning
+hierarchical rl
+high dimensionality
+high-quality solutions
+higher order logic
+higher-order logic
+hoare logic
+hopfield networks
+horn clause
+hownet
+human drivers
+human emotion
+human evaluation
+human machine interaction
+human machine interface
+human operator
+human robot interaction
+human robot interactions
+human system interface
+human walking
+human-ai collaboration
+human-machine interaction
+human-machine interface
+human-machine interfaces
+human-robot interaction
+humanoid robot
+humanoid robotics
+humanoid robots
+hybrid algorithm
+hybrid algorithms
+hybrid genetic algorithm
+hybrid genetic algorithms
+hybrid logic
+hybrid particle swarm optimization
+hybrid particle swarm optimization algorithm
+ieee 802.22
+ilp
+image retrieval
+imitation learning
+imperative programs
+improved genetic algorithm
+improved genetic algorithms
+improved particle swarm optimization
+improved particle swarm optimization algorithms
+incentive compatibility
+incentive compatible
+incentive mechanism
+incentive mechanisms
+incentive schemes
+incomplete information system
+incomplete information systems
+index weight
+inductive logic programming
+inductive logic programming %28ilp%29
+inference
+inference algorithm
+inference algorithms
+inference engines
+inference systems
+informal learning
+information extraction
+information extraction systems
+information extraction techniques
+information retrieval technology
+input features
+intelligence analysis
+intelligence analysts
+intelligent agent
+intelligent agents
+intelligent computing
+intelligent control
+intelligent controllers
+intelligent decision support systems
+intelligent environment
+intelligent environments
+intelligent materials
+intelligent network
+intelligent networks
+intelligent robots
+intelligent sensors
+intelligent servicing
+intelligent software agent
+intelligent systems
+intelligent transportation
+intelligent tutoring
+intelligent tutoring system
+intelligent tutoring systems
+intelligent virtual agents
+interactive robot
+interesting rules
+interestingness measures
+interpretability
+interval temporal logic
+inverted pendulum model
+isabelle
+isabelle%2Fhol
+iterated prisoners dilemma
+joint limits
+k nearest neighbor algorithm
+k-means
+k-means algorithm
+k-means algorithms
+k-means clustering
+k-nearest neighbor classifier
+k-nn classifier
+kernelized reinforcement learning
+kernelized rl
+knowledge acquisition
+knowledge base
+knowledge based systems
+knowledge bases
+knowledge distillation
+knowledge engineering
+knowledge engineers
+knowledge exchange
+knowledge management
+knowledge representation
+knowledge representation and reasoning
+knowledge sharing
+knowledge transfer
+knowledge-based systems
+knowledge-sharing
+known environments
+kripke model
+kripke semantics
+label propagation
+language guessing
+language identification
+language pairs
+large language models
+laser range finder
+laser range finders
+latent variable generative models
+latent variable models
+leader following
+leader-follower
+learning agents
+learning vector quantization
+learning vector quantization %28lvq%29
+legged locomotion
+lexical database
+lexical resources
+lexical semantics
+licensed users
+linear genetic programming
+linear logic
+linear time temporal logic
+link prediction
+llms
+local convergence
+local optimal solution
+local reasoning
+logic programming
+logic programs
+long short term memory neural networks
+loopy belief propagation
+low-rank adaptation
+lstm
+ltl
+machine learning
+machine learning algorithms
+machine learning methods
+machine learning techniques
+machine learnings
+machine perception
+machine storytelling
+machine translation
+machine translation systems
+machine translations
+machine-learning
+malicious host
+mamdani
+man machine systems
+man-machine systems
+marginals
+markov chain monte carlo algorithms
+markov chain monte carlo method
+markov logic networks
+masked language modeling
+mass functions
+maximum entropy model
+maximum entropy models
+mcmc method
+mechanism design
+memetic algorithm
+memetic algorithms
+memory-efficient fine-tuning
+message passing algorithm
+meta programming
+meta-heuristic approach
+meta-heuristic methods
+meta-heuristic techniques
+meta-learning
+meta-programming
+micro robotics
+micro robots
+microrobot
+minimum support
+missed detections
+mixed strategy
+mlp neural networks
+mobile agent
+mobile agent security
+mobile agent system
+mobile agent systems
+mobile agent technology
+mobile agents
+mobile base
+mobile interaction
+mobile manipulation
+mobile manipulator
+mobile manipulators
+mobile service robots
+modal logic
+modal logics
+modal operators
+model checking problem
+model free
+model-checking techniques
+modular robotics
+monadic second-order logic
+motion generation
+motion planners
+multi agent
+multi agent simulation
+multi agent system
+multi agent system %28mas%29
+multi agent systems
+multi objective optimizations %28moo%29
+multi objective particle swarm optimization
+multi processor scheduling
+multi-agent
+multi-agent approach
+multi-agent learning
+multi-agent model
+multi-agent reinforcement learning
+multi-agent simulation
+multi-agent system
+multi-agent systems
+multi-agent technologies
+multi-agents
+multi-criteria decision analysis
+multi-criteria decision making
+multi-objective learning
+multi-objective optimisation
+multi-objective optimization
+multi-objective optimizations
+multi-processor platforms
+multi-view learning
+multiagent architecture
+multiagent framework
+multiagent learning
+multiagent system
+multiagent systems
+multilayer perceptrons
+multimodal ai
+multiobjective optimisation
+multiobjective optimization
+multiple classifier system
+multiple classifier systems
+multiple classifiers
+multipurpose robots
+multitask learning
+mutation operations
+mutation operator
+mutation operators
+mutation strategy
+n-gram language models
+n-gram models
+naive bayes
+naive bayes classifier
+naive bayes classifiers
+naive bayesian classifier
+name recognition
+named entities
+named entity
+named entity recognition
+nash bargaining solution
+nash equilibria
+nash equilibrium
+natural deduction
+natural language generation
+natural language processing
+natural language processing systems
+natural language questions
+natural language text
+natural language understanding
+nearest neighbor classification
+negative association rules
+neural fine-tuning
+neural network
+neural network model
+neural networks
+neural radiance fields
+neural-symbolic integration
+neuro-fuzzy
+neuro-fuzzy approach
+neuro-fuzzy system
+neuro-fuzzy systems
+neurofuzzy system
+neurosymbolic ai
+nlp
+noise power
+non-cooperative
+non-cooperative game
+non-cooperative games
+non-monotonic reasoning
+non-parametric bayesian
+non-player character
+noncooperative game
+nonmonotonic reasoning
+nuclear plant
+nuclear reactor accidents
+numerical optimization
+numerical optimizations
+object recognition
+one-shot learning
+ontology language
+ood detection
+ood generalization
+opinion mining
+opposition-based learning
+optimal mechanism
+optimal strategies
+optimal strategy
+ordered binary decision diagrams
+organizational learning
+out-of-distribution detection
+out-of-distribution generalization
+owl
+parallel and distributed processing
+parallel corpora
+parallel text
+parameter learning
+parameter-efficient tuning
+pareto dominance
+parse trees
+parsing
+parsing algorithm
+part of speech
+part of speech tagging
+part-of-speech tagging
+partially observable markov decision process
+partially observable markov decision processes
+particle swarm
+particle swarm algorithm
+particle swarm optimisation
+particle swarm optimization
+particle swarm optimization %28pso%29
+particle swarm optimization algorithm
+particle swarm optimization algorithms
+particle swarm optimization technique
+particle swarm optimizations
+particle swarms
+passage retrieval
+pattern classification
+pattern recognition
+pattern recognition systems
+pattern recognition%2C visual
+payoff function
+pcnn
+pedagogical agents
+penalty function
+penalty functions
+penalty parameters
+periodic tasks
+planning algorithms
+policy iteration
+pos tagging
+positive-unlabeled learning
+posterior distributions
+potential games
+power distribution network
+pre-emptive scheduling
+premature convergence
+presburger arithmetic
+pressurized water reactors
+price of anarchy
+primary systems
+primary users
+principal-agent theory
+prior information
+prisoner dilemma
+prisoners dilemma
+probabilistic graphical models
+probabilistic inference
+probabilistic model
+probabilistic modeling
+probabilistic models
+probability of detection
+program analysis
+program interpreters
+program logic
+program translators
+program verification
+prolog %28programming language%29
+prompt engineering
+proof search
+proof system
+propositional logic
+propositional satisfiability
+pseudo relevance feedback
+pso
+pso algorithm
+pso algorithms
+psychology computing
+pulse coupled neural network
+q-learning
+qa system
+quantified boolean formulas
+quantized llm fine-tuning
+quantized llms
+quantum machine learning
+quantum-behaved particle swarm optimization
+quantum-dot cellular automata
+query execution
+query translation
+query translations
+question answering
+question answering system
+question answering systems
+question classification
+radial basis
+radial basis function
+radial basis function neural network
+radial basis function neural networks
+radial basis function%28rbf%29
+radial basis functions
+radio environment
+radio spectra
+rag
+random subspaces
+rbf
+rbf neural network
+rbf neural networks
+rbfnn
+reachability problem
+reactive system
+reactive systems
+real robot
+real time operating system
+real time scheduling
+real time systems
+real-time application
+real-time applications
+real-time embedded systems
+real-time java
+real-time operating system
+real-time operating systems
+real-time rendering
+real-time scheduling
+real-time systems
+real-time tasks
+recognition algorithm
+recurrent neural network
+recurrent neural network %28rnn%29
+recurrent neural networks
+reinforcement learning
+reinforcement learning %28rl%29
+reinforcement learning agent
+reinforcement learning approach
+reinforcement learning techniques
+reinforcement learning with human feedback
+relation extraction
+relational algebra
+relational data
+relational data model
+relational data models
+relational database
+relational database management systems
+relational database systems
+relational databases
+relational learning
+relational model
+relational queries
+relational tables
+relevance models
+relieff
+relu networks
+repeated games
+replicator dynamics
+representation learning
+restricted boltzmann machine
+retail price
+retrieval-augmented generation
+reward function
+rlhf
+rnn
+robot audition
+robot behavior
+robot dynamics
+robot hand
+robot interactions
+robot learning
+robot motion
+robot swarms
+robotic hand
+robotic hands
+robotic swarms
+rough set models
+rule base
+rule based reasoning
+rule basis
+rule induction
+rule-based machine learning
+rule-based reasoning
+safety critical applications
+safety critical systems
+safety-critical systems
+sat instances
+sat problems
+sat solvers
+sat-solving
+satisfiability
+satisfiability modulo theories
+satisfiability problem
+satisfiability problems
+satisfying assignments
+scale factor
+scatter search
+schedulability
+schedulability analysis
+score-based generative models
+sea trial
+search process
+self-adaptive
+self-supervised learning
+selfish node
+selfish nodes
+semantic distance
+semantic relatedness
+semantic similarity
+semantic similarity measures
+semi-supervised learning
+sensing schemes
+sentence similarity
+sentiment analysis
+sentiment classification
+separation logic
+sequence labeling
+sequence-dependent setup time
+sequent calculus
+sequential decision making
+service robot
+service robotics
+service robots
+shapley value
+simple genetic algorithm
+simulated annealing
+simulated annealing %28sa%29
+simulated annealing algorithm
+simulated annealing algorithms
+single-agent
+sketch recognition
+smart cities
+smart city
+smart environment
+smart environments
+smart home
+smart homes
+smart manufacturing
+smart materials
+smart sensor
+smart sensors
+social robots
+social software
+soft computing
+soft computing methods
+softcomputing techniques
+software agent
+software agents
+solution accuracy
+solution concepts
+spatial clustering
+spectrum measurement
+spectrum sensing
+speech transcriptions
+speech transmission
+speech-to-speech translation
+spiking neural networks
+spoken dialogue
+spoken dialogue system
+spoken dialogue systems
+spoken language processing
+spoken language understanding
+sql
+sql query
+stabilizers %28agents%29
+stackelberg
+stackelberg equilibrium
+stackelberg game
+stackelberg games
+statistical language modeling
+statistical language models
+statistical learning
+statistical machine translation
+statistical relational learning
+stigmergy
+stochastic game
+stochastic games
+strategic game
+strategy proofs
+strongly connected
+structure learning
+structure-learning
+structured query language
+structured query language %28sql%29
+subject headings
+suction cup
+supervised classifiers
+supervised learning
+supervised machine learning
+supervisory control theory
+support and confidence
+support vector machine
+support vector machine %28svm%29
+support vector machine %28svms%29
+support vector machines
+support vector machines %28svms%29
+sustainable competitive advantages
+swarm intelligence
+swarm of robots
+swarm robotics
+swarm robots
+switching topology
+symbolic knowledge distillation
+symbolic regression
+synsets
+syntactic analysis
+syntactic features
+syntactic information
+syntactic parsing
+syntactic pattern recognition
+syntactic structure
+synthetic data
+system dynamics model
+system testing
+system theory
+systems design
+systems thinking
+tabu search
+tacit knowledge
+target language
+task planning
+temporal database
+temporal databases
+temporal difference learning
+temporal differences
+temporal logic
+temporal logics
+temporal operators
+temporal properties
+temporal property
+term frequency
+test sample
+test samples
+test set
+text categorization
+text classification
+text classifiers
+text clustering
+text detection
+text entry
+text lines
+text mining
+text processing
+text recognition
+text summarization
+textual entailment
+theorem provers
+timed systems
+timing analysis
+topic model
+traditional clustering
+traffic networks
+training sample
+training samples
+training set
+transaction database
+transfer learning
+transferable belief model
+translation models
+translation process
+translation quality
+translation systems
+treebanks
+truthful mechanisms
+tutoring system
+two-dimensional cellular automata
+type inference
+type inferences
+uml profile
+uml profiles
+underwater structures
+unit selection
+unknown environments
+unrelated parallel machines
+unsupervised learning
+unsupervised learning method
+urban traffic networks
+utility function
+utility functions
+value function
+value functions
+variable message signs
+variable ordering
+variational approximation
+variational bayesian
+variational inference
+vcg mechanism
+verification tools
+virtual agent
+virtual agents
+visual slam
+walking control
+walking gait
+walking motion
+walking pattern
+wall climbing robot
+water craft
+web information extraction
+web ontology language
+whole-body motion
+wideband spectrum
+wiki
+wikis
+wireless microphone
+word embedding
+word embeddings
+word processing
+word segmentation
+word sense disambiguation
+word similarity
+wordnet
+worst-case execution time
+wrapper approach
+zero moment point
+zero-shot learning
+zero-sum game
+zmp

@@ -194,5 +194,4 @@ cython_debug/
 .cursorindexingignorebabelnet_conf.yml
 
 # BabelNet script output files
-results.json
 conceptual_links_results.json

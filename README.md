@@ -42,6 +42,39 @@ python filter_ai_subtopics.py machine_learning --depth 3 --output ml_exploration
 - `--output, -o`: Output JSON file path (optional)
 - `--csv, -c`: Path to CSO CSV file (default: data/CSO.3.4.1.csv)
 
+### `arxiv_collector.py`
+Collects arXiv papers for AI topics by querying the arXiv API for each keyword from CSO subtopics. Stores results in SQLite database with deduplication, rate limiting, and resume capability.
+
+**Usage:**
+```bash
+# Start collection from keywords file
+python arxiv_collector.py subtopics_artificial_intelligence_depth_3.txt
+
+# Resume interrupted collection
+python arxiv_collector.py subtopics_artificial_intelligence_depth_3.txt
+
+# Show progress summary only
+python arxiv_collector.py subtopics_artificial_intelligence_depth_3.txt --summary-only
+
+# Custom settings
+python arxiv_collector.py subtopics_artificial_intelligence_depth_3.txt --delay 5.0 --database my_papers.db
+```
+
+**Parameters:**
+- `keywords_file`: Path to keywords file (required)
+- `--database, -d`: SQLite database path (default: arxiv_papers.db)
+- `--delay`: Delay between API requests in seconds (default: 3.0)
+- `--no-resume`: Start fresh instead of resuming from existing database
+- `--summary-only`: Show progress summary and exit
+
+**Features:**
+- Rate limiting (3+ second delays between requests)
+- Deduplication by arXiv ID across keywords
+- Resume capability for interrupted collections
+- Progress tracking with ETA calculations
+- Graceful shutdown handling (Ctrl+C)
+- Comprehensive logging to file and console
+
 ## Setup
 
 1. Install dependencies:
